@@ -9,7 +9,7 @@ This code only supports Phonegap/Cordova 2.9.  If you want to have support for 3
 
 This plugin uses [plugman](https://github.com/apache/cordova-plugman)
 
-`cordova plugins add https://github.com/8zrealestate/AppPreferences`
+`cordova plugins add https://github.com/vinifig/AppPreferences`
 
 ## Using the plugin ##
 
